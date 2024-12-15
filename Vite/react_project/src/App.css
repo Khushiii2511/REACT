@@ -1,0 +1,31 @@
+/* *{
+  text-align: center;
+}
+.app{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  grid-area: 2rem;
+  align-items: center;
+  border: 5px solid black;
+  height: 80vh;
+  width: 50vw;
+  margin-left: 500px;
+  background-color:pink;
+}
+body {
+  background-color: rgb(83, 7, 247);
+} */
+ /* General container styling */
+/* General container styling */
+.f{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.d{
+  flex: 0 1 30%;
+  margin: 10px;
+}
+
